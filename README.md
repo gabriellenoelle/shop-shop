@@ -1,1 +1,2 @@
-# shop-shop
+# Shop-Shop
+# 🚧 Currently under construction 👷‍♀️
